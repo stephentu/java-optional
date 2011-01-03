@@ -1,4 +1,6 @@
-This is a Java version of alexy's and paulp's Scala optional command line tool (https://github.com/paulp/optional).
+java-optional
+-------------
+This is a Java version of alexy's and paulp's Scala optional command line tool (<https://github.com/paulp/optional>).
 
 Usage
 -----
