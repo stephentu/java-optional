@@ -22,3 +22,7 @@ Usage
       }
 
     }
+
+And now you can simply invoke your app as follows
+
+    java -cp [...] TestApp --numClients 10 --replicationFactor 2.0 --bindHost localhost
